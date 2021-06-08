@@ -2,7 +2,7 @@
 def average_influenza_doses():
     import pandas as pd
     
-    df = pd.read_csv('Data-analysis-Assignments/NISPUF17.csv')
+    df = pd.read_csv('NISPUF17.csv')
     data = df[['CBF_01', 'P_NUMFLU']]
     
     breast_feeding = data[data['CBF_01'] == 1].dropna()
@@ -15,7 +15,7 @@ def average_influenza_doses():
 
 def chickenpox_by_sex():
     import pandas as pd
-    df = pd.read_csv('Data-analysis-Assignments/NISPUF17.csv')
+    df = pd.read_csv('NISPUF17.csv')
     df = df[['P_NUMVRC', 'SEX', 'HAD_CPOX']]
     
     females = df[(df['P_NUMVRC'] >= 1) & (df['SEX'] == 2)]
@@ -34,7 +34,7 @@ def corr_chickenpox():
     import scipy.stats as stats
     import numpy as np
     import pandas as pd
-    df = pd.read_csv('Data-analysis-Assignments/NISPUF17.csv')
+    df = pd.read_csv('NISPUF17.csv')
     
     df = df[["HAD_CPOX", 'P_NUMVRC']].dropna()
     df = df[df["HAD_CPOX"] <= 2]
