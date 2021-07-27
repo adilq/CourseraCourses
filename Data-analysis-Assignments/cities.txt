@@ -1,0 +1,105 @@
+         Metropolitan area Population           NFL              MLB  \
+0            New York City   20153634    GiantsJets      YankeesMets   
+1              Los Angeles   13310447  RamsChargers    DodgersAngels   
+2   San Francisco Bay Area    6657982  49ersRaiders  GiantsAthletics   
+3                  Chicago    9512999         Bears    CubsWhite Sox   
+4        Dallas–Fort Worth    7233323       Cowboys          Rangers   
+5         Washington, D.C.    6131977      Redskins        Nationals   
+6             Philadelphia    6070500        Eagles         Phillies   
+7                   Boston    4794447      Patriots          Red Sox   
+8   Minneapolis–Saint Paul    3551036       Vikings            Twins   
+9                   Denver    2853077       Broncos          Rockies   
+10   Miami–Fort Lauderdale    6066387      Dolphins          Marlins   
+11                 Phoenix    4661537     Cardinals     Diamondbacks   
+12                 Detroit    4297617         Lions           Tigers   
+13                 Toronto    5928040            —         Blue Jays   
+14                 Houston    6772470        Texans           Astros   
+15                 Atlanta    5789700       Falcons           Braves   
+16          Tampa Bay Area    3032171    Buccaneers             Rays   
+17              Pittsburgh    2342299      Steelers          Pirates   
+18               Cleveland    2055612        Browns          Indians   
+19                 Seattle    3798902      Seahawks         Mariners   
+20              Cincinnati    2165139       Bengals             Reds   
+21             Kansas City    2104509        Chiefs           Royals   
+22               St. Louis    2807002                      Cardinals   
+23               Baltimore    2798886        Ravens          Orioles   
+24               Charlotte    2474314      Panthers                —   
+25            Indianapolis    2004230         Colts                    
+26               Nashville    1865298        Titans                —   
+27               Milwaukee    1572482                        Brewers   
+28             New Orleans    1268883        Saints                —   
+29                 Buffalo    1132804         Bills                    
+30                Montreal    4098927             —                    
+31               Vancouver    2463431             —                —   
+32                 Orlando    2441257             —                —   
+33                Portland    2424955             —                —   
+34                Columbus    2041520             —                —   
+35                 Calgary    1392609             —                —   
+36                  Ottawa    1323783             —                —   
+37                Edmonton    1321426             —                —   
+38          Salt Lake City    1186187             —                —   
+39                Winnipeg     778489             —                —   
+40               San Diego    3317749                         Padres   
+41             San Antonio    2429609                              —   
+42              Sacramento    2296418             —                —   
+43               Las Vegas    2155664                              —   
+44            Jacksonville    1478212       Jaguars                —   
+45           Oklahoma City    1373211             —                —   
+46                 Memphis    1342842                              —   
+47                 Raleigh    1302946             —                —   
+48               Green Bay     318236       Packers                —   
+49                Hamilton     747545             —                —   
+50                  Regina     236481             —                —   
+
+               NBA                           NHL   Winloss  
+0       KnicksNets  [Rangers, Islanders, Devils]  1.076190  
+1   LakersClippers                [Kings, Ducks]  1.648148  
+2         Warriors                      [Sharks]  1.666667  
+3            Bulls                  [Blackhawks]  0.846154  
+4        Mavericks                       [Stars]  1.312500  
+5          Wizards                    [Capitals]  1.884615  
+6            76ers                      [Flyers]  1.615385  
+7          Celtics                      [Bruins]  2.500000  
+8     Timberwolves                        [Wild]  1.730769  
+9          Nuggets                   [Avalanche]  1.433333  
+10            Heat                    [Panthers]  1.466667  
+11            Suns                     [Coyotes]  0.707317  
+12         Pistons                       [Wings]  0.769231  
+13         Raptors                       [Leafs]  1.884615  
+14         Rockets                            []       NaN  
+15           Hawks                            []       NaN  
+16               —                   [Lightning]  2.347826  
+17                                    [Penguins]  1.620690  
+18       Cavaliers                            []       NaN  
+19                                            []       NaN  
+20                                            []       NaN  
+21                                            []       NaN  
+22                                       [Blues]  1.375000  
+23                                            []       NaN  
+24         Hornets                            []       NaN  
+25          Pacers                            []       NaN  
+26               —                   [Predators]  2.944444  
+27           Bucks                            []       NaN  
+28        Pelicans                            []       NaN  
+29                                      [Sabres]  0.555556  
+30               —                   [Canadiens]  0.725000  
+31                                     [Canucks]  0.775000  
+32           Magic                            []       NaN  
+33   Trail Blazers                            []       NaN  
+34               —                     [Jackets]  1.500000  
+35               —                      [Flames]  1.057143  
+36               —                    [Senators]  0.651163  
+37               —                      [Oilers]  0.900000  
+38            Jazz                            []       NaN  
+39               —                        [Jets]  2.600000  
+40                                            []       NaN  
+41           Spurs                            []       NaN  
+42           Kings                            []       NaN  
+43               —                     [Knights]  2.125000  
+44               —                            []       NaN  
+45         Thunder                            []       NaN  
+46       Grizzlies                            []       NaN  
+47               —                  [Hurricanes]  1.028571  
+48               —                            []       NaN  
+49               —                            []       NaN  
+50               —                            []       NaN  
