@@ -1,0 +1,56 @@
+body{
+    font-size: 16px;
+    color: #fff;
+    background-color: #61122f;
+    font-family: 'Oxygen', sans-serif;
+}
+
+/**Header**/
+#header-nav{
+    background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+}
+
+#logo-img {
+    float: left;
+    background-image: url(../images/logo-large.png);
+    width: 150px;
+    height: 150px;
+    margin: 10px 15px 10px 0;
+}
+
+.navbar-brand {
+    padding-top: 25px;
+}
+
+.navbar-brand a {
+    text-decoration: none;
+}
+
+.navbar-brand a:hover {
+    font-size: 1.35em;
+}
+
+.navbar-brand p { /*Halal*/
+    color: #000;
+    text-transform: capitalize;
+    font-size: .7em;
+    margin-top: 15px;
+}
+
+.navbar-brand span{
+    vertical-align: middle;
+}
+
+.navbar-brand h1{ /* Restaurant name*/
+    font-family: 'Merriweather', serif;
+    color: #557c3e;
+    font-size: 1.5em;
+    text-transform: capitalize;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+}
